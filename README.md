@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Harsh7021
-- 👀 I’m interested in anime
-- 🌱 I’m currently learning commerce
-- 💞️ I’m looking to collaborate on anime app
+- 👀 I’m interested in anime and Manga/manhwa 
+- 🌱 I’m currently learning INFORMATION TECHNOLOGY 
 - 📫 How to reach me harshvarma470@gmail.com
 
 <!---
